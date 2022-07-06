@@ -1,4 +1,4 @@
-# speoth(明火) 的技术文摘
+# speoth「明火」 的技术文摘
 
 ## TODO
 ### 架构设计 | ArchitectureDesign
@@ -6,7 +6,7 @@
 + 模块边界如何划分，从微前端到微模块谈起
 + Ioc/DI +AOP 在前端的应用
 
-### 低代码领域
+### 低代码领域 | LowCode
 + 从RPG MAKER、Unreal蓝图谈及低代码的实现路径
 
 ### 图形学 | graphics
